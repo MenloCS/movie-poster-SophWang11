@@ -75,11 +75,11 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 - **What I'll change for next attempt: i want the background to be green with hills and not that many people in the background holding torches and their figures shouldn't be seen only their shadow with torches**  
 
 **Attempt 2:**  
-- **My prompt: generate a How to Train Your Dragon Poster with Hiccup riding toothless while flying away from a bright background with people holding torches i want hiccup to be big and i want the background to be green with hills and not that many people in the background holding torches and their figures shouldn't be seen only their shadow with torches i want the sky to be blue/orangeish i want hiccup and toothless to be higher in the air**  
+- **My prompt: generate a How to Train Your Dragon Poster with Hiccup riding toothless while flying away from a bright background with people holding torches i want hiccup to be big and i want the background to be green with hills and not that many people in the background holding torches and their figures shouldn't be seen only their shadow with torches**  
 
 - **What worked: characters and background look pretty good**  
-- **What didn't work: The background is a bit empty**  
-- **What I'll change for next attempt: add more dragons in the sky**  
+- **What didn't work: The background is too green**  
+- **What I'll change for next attempt: different colors in the sky**  
 
 ---
 
@@ -89,21 +89,21 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:generate a How to Train Your Dragon Poster with Hiccup riding toothless while flying away from a bright background with people holding torches i want hiccup to be big and i want the background to be green with hills and not that many people in the background holding torches and their figures shouldn't be seen only their shadow with torches i want the sky to be blue/orangeish**  
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked: nice sky**  
+- **What didn't work: wider image, less movie-like**  
+- **What I'll change for next attempt: smaller toothless**  
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:generate a How to Train Your Dragon Poster with Hiccup riding toothless while flying away from a bright background with people holding torches i want hiccup to be big and i want the background to be green with hills and not that many people in the background holding torches and their figures shouldn't be seen only their shadow with torches i want the sky to be blue/orangeish i want hiccup and toothless to be higher in the air**  
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked: nice background**  
+- **What didn't work: too empty of a background**  
 
 **Final AI Image Selected:** (Which attempt? Why?)  
-
----
+Added poster
+---Image of 
 
 ## Step 4: Photoshop Modifications
 *(Commit message: "Added Photoshop modifications")*
